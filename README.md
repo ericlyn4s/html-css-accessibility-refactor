@@ -15,7 +15,7 @@ What are the steps required to install your project? Provide a step-by-step desc
 The page can be accessed via Github pages, at https://ericlyn4s.github.io/html-css-accessibility-refactor/. From here, you can read about the Horiseon product it's offerings. You can also verify the code accessibility by looking at the developer console (Ctrl + Shift + I).
 
 
-![The landing page for Horiseon](assets/images/landing-page.png)
+![The landing page for Horiseon](assets/images/lead-generation.png)
 
 ## License
 
