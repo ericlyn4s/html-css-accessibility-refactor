@@ -6,16 +6,12 @@
 
 - I built this project to better understand accesibility standards with HTML & CSS. It can be easy to fall into the habit of using <div> and <span> elements, so it's crucial to implement good habits at the start of my education. This project made me consider alternative solutions by requiring the use of semantic HTML elements. It also made me consider the important components of a photo that someone would need to know, assuming they're not able to view it - what's occuring? Who's in it? What are the background details? What's the setting? Finally, altering the layout of the HTML & CSS made me consider the readibility of the codebase. Ensuring the code followed a logical progression was something I hadn't considered until completing this project.
 
-## Installation
-
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
-
 ## Usage
 
 The page can be accessed via Github pages, at https://ericlyn4s.github.io/html-css-accessibility-refactor/. From here, you can read about the Horiseon product it's offerings. You can also verify the code accessibility by looking at the developer console (Ctrl + Shift + I).
 
 
-![The landing page for Horiseon](assets/images/lead-generation.png)
+![The landing page for Horiseon](assets/images/landing-page.png)
 
 ## License
 
